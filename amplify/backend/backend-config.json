@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsamp7e971dfa": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
